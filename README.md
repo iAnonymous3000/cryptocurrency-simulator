@@ -25,7 +25,7 @@ Cryptocurrency-simulator is an educational tool built in C++ that demonstrates t
    ```
 4. Compile the project:
    ```
-   g++ -o simulator main.cpp
+   g++ -o simulator litcoin.cpp
    ```
 5. Run the simulator:
    ```
